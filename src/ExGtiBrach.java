@@ -7,8 +7,8 @@ class ExGitBrach{
 		System.out.println("버전에 대한 설명");
 		System.out.println("충돌");
 		System.out.println("충돌해결");
-		
-		
+
+		System.out.println("원격저장소");
 		
 		
 		return;
