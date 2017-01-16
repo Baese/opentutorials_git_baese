@@ -6,6 +6,7 @@ class ExGitBrach{
 		System.out.println("깃이란 무엇인가");
 		System.out.println("버전에 대한 설명");
 		System.out.println("충돌");
+		System.out.println("충돌해결");
 		
 		
 		
