@@ -11,6 +11,7 @@ class ExGitBrach{
 		System.out.println("원격저장소");
 		System.out.println("인코딩 내용 추가");
 		System.out.println("push");
+		System.out.println("pull");
 		
 		return;
 	}
