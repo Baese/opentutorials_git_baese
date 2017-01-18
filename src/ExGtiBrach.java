@@ -14,6 +14,7 @@ class ExGitBrach{
 		System.out.println("pull");
 		System.out.println("sync.egoing");
 		System.out.println("pull.leezche");
+		System.out.println("conflict.leezche");
 		
 		return;
 	}
