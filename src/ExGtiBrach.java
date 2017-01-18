@@ -13,6 +13,7 @@ class ExGitBrach{
 		System.out.println("push");
 		System.out.println("pull");
 		System.out.println("sync.egoing");
+		System.out.println("pull.leezche");
 		
 		return;
 	}
